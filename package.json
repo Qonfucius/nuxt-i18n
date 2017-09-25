@@ -1,5 +1,5 @@
 {
-  "name": "@qonfucius/nuxt-i18n",
+  "name": "qonfucius-nuxt-i18n",
   "version": "0.0.1",
   "description": "NuxtJS i18n modle",
   "main": "index.js",
