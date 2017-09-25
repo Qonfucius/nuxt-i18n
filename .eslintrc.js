@@ -11,6 +11,10 @@ module.exports = {
     'html',
   ],
   // add your custom rules here
-  rules: {},
+  rules: {
+    'import/no-dynamic-require': 0,
+    'global-require': 0,
+
+  },
   globals: {},
 };
