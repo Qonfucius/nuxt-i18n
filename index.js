@@ -8,7 +8,7 @@ module.exports = async function nuxtApollo(moduleOptions) {
   const defaultOptions = {
     defaultLocale: 'en',
     fallbackLocale: 'en',
-    localePath: join(__dirname, '..', '..'),
+    localePath: join(__dirname, '../../locales'),
     storeSetLocales: 'i18n/SET_LOCALES',
     getCurrentLocale: 'i18n/locale',
   };

@@ -1,6 +1,6 @@
 {
   "name": "qonfucius-nuxt-i18n",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "NuxtJS i18n modle",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,9 @@
     "url": "https://github.com/Qonfucius/nuxt-i18n/issues"
   },
   "homepage": "https://github.com/Qonfucius/nuxt-i18n#readme",
-  "eslintIgnore": ["plugin.js"],
+  "eslintIgnore": [
+    "plugin.js"
+  ],
   "devDependencies": {
     "babel-eslint": "^8.0.0",
     "eslint": "^4.7.2",
